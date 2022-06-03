@@ -4,7 +4,7 @@ Alexa, Who is at Door is a project which is built on top of Alexa Skills Kit and
 
 # Development Process
 
-1. Create a skill, Intent :heavy_mark:
+1. Create a skill, Intent :heavy_check_mark:
 2. Evaluate the skill on ASK :x:
 
 # Softwares
