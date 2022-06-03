@@ -1,6 +1,6 @@
 # About Project
 
-Alexa, Who is at Door is a project which is built on top of Alexa Skills Kit and sends a photo on telegram.
+Alexa, Who is at Door is a project which is built on top of Alexa Skills Kit and sends a photo on email if it is stranger.
 
 # Development Process
 
@@ -10,7 +10,8 @@ Alexa, Who is at Door is a project which is built on top of Alexa Skills Kit and
 4. Sent a request to door :heavy_check_mark:
 5. Received the Request on Laptop :heavy_check_mark:
 6. Took Snapshot of Image :heavy_check_mark:
-7. Face Recognition :x:
+7. Face Recognition :heavy_check_mark:
+8. Push back the result :x:
 
 # Softwares
 1. VS Code
