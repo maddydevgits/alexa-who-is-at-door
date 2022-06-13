@@ -16,9 +16,10 @@ Alexa, Who is at Door is a project which is built on top of Alexa Skills Kit and
 10. Test both positive and negative :heavy_check_mark:
 
 # Softwares
-1. VS Code
+1. VS Code(https://code.visualstudio.com)
 2. Amazon Developer Account (developer.amazon.com)
-3. Python3.9.9
+3. Python3.9.9 (https://python.org)
+4. git (https://git-scm.com)
 
 # Packages
 1. pip install opencv-python
